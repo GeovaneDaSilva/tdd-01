@@ -1,0 +1,20 @@
+# Javascript standa
+# git commit -m"chore: add npm"
+
+## Padrao de commit git-commit-msg-linter
+
+# npm i -D typescript @types/node
+
+# Livreria para confgurar o linter com Stantard JS: eslint-config-standard-with-typescript
+
+# Plugin: eslint 
+
+# npm i -D husky para excutar comandos antes de una tarefa
+
+# npm i -D lint-staged ele permite rodar script no staged are, = todos que arquivos modificados para dar commits
+
+# npm i -D jest @type/jest ts-jest  = parte de provas || npm install -g jest-cli
+
+OBS: git log exit q
+
+#
