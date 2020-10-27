@@ -1,5 +1,8 @@
+import { HttpRequest, HttpResponse } from "../protocols/http"
+
+
 export class SignUpController {
-  handle(httpRequest: any): any {
+  handle (httpRequest: HttpRequest): HttpResponse {
 
     if ( !httpRequest.body.name ) {
       
