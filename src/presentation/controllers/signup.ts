@@ -4,7 +4,7 @@ import { HttpRequest, HttpResponse } from "../protocols/http"
 export class SignUpController {
   handle (httpRequest: HttpRequest): HttpResponse {
 
-    if ( ttpRequest.body.nam ) {
+    if ( httpRequest.body.nam ) {
       
       return {
         statusCode: 400,
