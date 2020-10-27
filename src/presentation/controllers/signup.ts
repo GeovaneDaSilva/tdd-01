@@ -1,7 +1,35 @@
+import { HttpRequest, HttpResponse } from "../protocols/http"
 
-function test ():number {
+
+export class SignUpController {
+  handle (httpRequest: HttpRequest): HttpResponse {
+
+    if ( httpRequest.body.nam ) {
+      
+      return {
+        statusCode: 400,
+        body : new Error('Missing params: name')
   
-  return 1
+      }
+      
+    }
+    if ( !httpRequest.body.email ) {
+      
+      return {
+        statusCode: 400,
+        body : new Error('Missing params: email')
+  
+      }
+      
+    }
+    
+    
+  }
+}
+
+
+function test() {
+  
+  return { a: 1 };
 }
 //
-test()
