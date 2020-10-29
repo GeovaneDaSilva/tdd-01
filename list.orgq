@@ -1,0 +1,114 @@
+[33mcommit 49663d15fcc3fd45f544640ac8faaba5a2904c80[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: GeovaneDaSilva <geovaneartedesign@gmail.com>
+Date:   Wed Oct 28 13:19:39 2020 -0400
+
+    refactor: make SignUpController conforms to a interface
+
+[33mcommit 4bdaf902edf31a0d35cfd65a06e6294eec2d642f[m
+Author: GeovaneDaSilva <geovaneartedesign@gmail.com>
+Date:   Wed Oct 28 13:03:39 2020 -0400
+
+    test: ensure SignUpController returns 400 if password is not
+    provided
+
+[33mcommit 8423dc3b37ece47353205814f5f21b7233f6777b[m
+Author: GeovaneDaSilva <geovaneartedesign@gmail.com>
+Date:   Wed Oct 28 13:03:11 2020 -0400
+
+    feat: ensure SignUpController returns 400 if password is not provided
+
+[33mcommit e3e0ea5b45f86793624f9a4606d5766f7da944f5[m
+Author: GeovaneDaSilva <geovaneartedesign@gmail.com>
+Date:   Wed Oct 28 12:49:59 2020 -0400
+
+    refactor: move duplicated to helper method
+
+[33mcommit c573d6e5b84ff2f24e9d1bb253f7a5ffb69b3172[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: GeovaneDaSilva <geovaneartedesign@gmail.com>
+Date:   Tue Oct 27 13:23:54 2020 -0400
+
+    refactor: ensure SignUpController.handle implement correct interfaces
+
+[33mcommit 79a048b3ed8a1a98c29bb56fcaf995a0118f9b51[m
+Author: GeovaneDaSilva <geovaneartedesign@gmail.com>
+Date:   Tue Oct 27 13:22:10 2020 -0400
+
+    refactor: ensure SignUpController.handle implement correct interfaces
+
+[33mcommit b9052523336d9589807722b1268cb30517079d57[m
+Author: GeovaneDaSilva <geovaneartedesign@gmail.com>
+Date:   Tue Oct 27 13:11:23 2020 -0400
+
+    refactor: ensure SignUpController.handle implement correct interfaces
+
+[33mcommit f00703103131d592f67a4865817d4a18b5e88382[m
+Author: GeovaneDaSilva <geovaneartedesign@gmail.com>
+Date:   Tue Oct 27 13:10:41 2020 -0400
+
+    refactor: ensure SignUpController.handle implement correct interfaces
+
+[33mcommit 013ea193f3c30e3c692dfeb5fe5b9d33289d8df1[m
+Author: GeovaneDaSilva <geovaneartedesign@gmail.com>
+Date:   Tue Oct 27 13:09:42 2020 -0400
+
+    refactor: ensure SignUpController.handle implement correct interfaces
+
+[33mcommit d236857b713862d8cede1b91da6e6de4e2d41e34[m
+Author: GeovaneDaSilva <geovaneartedesign@gmail.com>
+Date:   Tue Oct 27 13:04:09 2020 -0400
+
+    refactor: ensure SignUpController.handle implement correct interfaces
+
+[33mcommit de1eb28bf83c9b320fa80747c0ae0fbd87bd283a[m
+Author: GeovaneDaSilva <geovaneartedesign@gmail.com>
+Date:   Tue Oct 27 11:59:12 2020 -0400
+
+    test: ensure SignUpController return 400 if email no is provided
+
+[33mcommit 923bd81f02589c4613933ef8d87a90b7f64019cf[m
+Author: GeovaneDaSilva <geovaneartedesign@gmail.com>
+Date:   Tue Oct 27 11:58:14 2020 -0400
+
+    feat: ensure SignUpController return 400 if email no is provided
+
+[33mcommit 658c3c5d382de8ee5d152f0a36492d53e7ab8cf9[m
+Author: GeovaneDaSilva <geovaneartedesign@gmail.com>
+Date:   Tue Oct 27 11:23:54 2020 -0400
+
+    feat: ensure SignUpController return 400 if not name is provided
+
+[33mcommit e9b142f06c0daf14d45ec1328da22895c6b539cd[m
+Author: GeovaneDaSilva <geovaneartedesign@gmail.com>
+Date:   Tue Oct 27 11:21:28 2020 -0400
+
+    feat: ensure SignUpController return 400 if not name is provided
+
+[33mcommit 7b0af212b0882e3540db68ba02e8543a6f1dc87c[m
+Author: GeovaneDaSilva <geovaneartedesign@gmail.com>
+Date:   Tue Oct 27 10:32:17 2020 -0400
+
+    test: ensure SignUpController return 400 if name is not provide
+
+[33mcommit 5561fab9b3bc71bbff3737c69436997a3a573825[m
+Author: GeovaneDaSilva <geovaneartedesign@gmail.com>
+Date:   Tue Oct 27 10:30:56 2020 -0400
+
+    feat: ensure SignUpController return 400 if name is not provided
+
+[33mcommit fe2bb7c437aa38a97dcc023cd4faf0ace55117b6[m
+Author: GeovaneDaSilva <geovaneartedesign@gmail.com>
+Date:   Mon Oct 26 21:35:00 2020 -0400
+
+    chore: add config init
+
+[33mcommit 48e2c96b54fe2e0da11bfeed9016b301cd6c6ee7[m
+Author: GeovaneDaSilva <geovaneartedesign@gmail.com>
+Date:   Mon Oct 26 21:29:50 2020 -0400
+
+    chore: add config init any project
+
+[33mcommit a5e03f54c27d2a30704c94dbc9f8961aef75dad0[m
+Author: GeovaneDaSilva <geovaneartedesign@gmail.com>
+Date:   Mon Oct 26 21:27:02 2020 -0400
+
+    m
